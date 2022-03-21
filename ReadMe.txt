@@ -7,8 +7,6 @@ This is a readme file for ENPM 661 project 3 phase 1.
 1. Pradipkumar Kathiriya (117678345)
 2. Jeffin johny Kachapiilly (118293929)
 
-
-
 ##################
 ### About file ###
 ##################
